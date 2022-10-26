@@ -7,6 +7,9 @@
     <title>ACTIVIDAD 4</title>
 </head>
 <body>
+    <!-- GAEL QUINTANA ROMERO
+        5PM
+        ACTIVIDAD NUMERO 4 -->
     <h1 id="title" onmouseover="ajustar()">Soy una simple página!!! =() =( =( </h1>
     <button id="a1" style="background-color: red;" onclick="rojo()">Red</button>
     <button id="a2"style="background-color: blue;" onclick="blue()">Blue</button>
